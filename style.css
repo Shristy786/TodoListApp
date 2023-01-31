@@ -92,7 +92,7 @@ h4{
     justify-content: center;
     padding:1.5rem;
     background-color: #fff;
-    border-radius: 0.5rem;
+    /* border-radius: 0.5rem; */
     box-shadow: var(--shadow);
     cursor:pointer;
 
@@ -105,7 +105,7 @@ input [type="checkbox"]
 .bubble
 {
     align-items: center;
-    display: flex;
+    display:contents;
     justify-content: center;
     width:20px;
     height: 20px;
